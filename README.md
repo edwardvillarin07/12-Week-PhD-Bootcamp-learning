@@ -1,499 +1,232 @@
-# 🧠 12-Week PhD-Level Computer Science Bootcamp
+# 🎓 12-Week PhD-Level Bootcamp Roadmap (Java, SQL, Spring, Git, Agile)
+
+Welcome Edward! This is your **full 12-week bootcamp roadmap** with a daily breakdown, exercises, and **learning resources** for each week.  
+Use this as your personal study plan (perfect for GitHub or Obsidian notes).
+
+- [ ]--
+
+## 📅 Week 1: Java Fundamentals
+- [ ]*Focus:** Syntax, variables, loops, conditionals, methods  
+- [ ]*Daily Breakdown:**
+- [ ] Day 1: Java setup, Hello World, variables  
+- [ ] Day 2: Data types, operators, input/output  
+- [ ] Day 3: Control flow (if, switch, loops)  
+- [ ] Day 4: Arrays & Strings  
+- [ ] Day 5: Methods & parameters  
+- [ ] Day 6: Mini-project: Calculator  
+- [ ] Day 7: Review & quiz  
+
+- [ ]*Resources:**
+- [ ] 📘 - [ ]Head First Java* – Kathy Sierra & Bert Bates  
+- [ ] 🎥 [Java Programming Masterclass – Udemy](https://www.udemy.com/course/java-the-complete-java-developer-course/)  
+- [ ] 🌐 [Oracle Java Tutorials](https://docs.oracle.com/javase/tutorial/)  
+- [ ] 🛠 [CodingBat Java](https://codingbat.com/java), [Exercism](https://exercism.org/tracks/java)  
+
+- [ ]--
+
+## 📅 Week 2: Object-Oriented Programming (OOP)
+- [ ]*Focus:** Classes, objects, encapsulation, inheritance, polymorphism  
+- [ ]*Daily Breakdown:**
+- [ ] Day 1: Classes & objects  
+- [ ] Day 2: Constructors & methods  
+- [ ] Day 3: Encapsulation  
+- [ ] Day 4: Inheritance  
+- [ ] Day 5: Polymorphism & abstraction  
+- [ ] Day 6: Mini-project: Library System  
+- [ ] Day 7: Review & quiz  
+
+- [ ]*Resources:**
+- [ ] 📘 - [ ]Effective Java* – Joshua Bloch  
+- [ ] 🎥 [OOP Concepts in Java (freeCodeCamp)](https://www.youtube.com/watch?v=SqcY0GlETPk)  
+- [ ] 🌐 [Java OOP Guide – Baeldung](https://www.baeldung.com/java-oop)  
+
+- [ ]--
+
+## 📅 Week 3: SQL & Databases
+- [ ]*Focus:** SQL basics, CRUD operations, Joins, Aggregates  
+- [ ]*Daily Breakdown:**
+- [ ] Day 1: SQL intro, SELECT queries  
+- [ ] Day 2: INSERT, UPDATE, DELETE  
+- [ ] Day 3: Joins (INNER, LEFT, RIGHT)  
+- [ ] Day 4: Aggregates (SUM, COUNT, AVG)  
+- [ ] Day 5: GROUP BY, HAVING  
+- [ ] Day 6: Mini-project: Church Attendance DB  
+- [ ] Day 7: Review & quiz  
+
+- [ ]*Resources:**
+- [ ] 📘 - [ ]Learning SQL* – Alan Beaulieu  
+- [ ] 🎥 [SQL Tutorial – FreeCodeCamp](https://www.youtube.com/watch?v=HXV3zeQKqGY)  
+- [ ] 🌐 [PostgreSQL Docs](https://www.postgresql.org/docs/)  
+- [ ] 🛠 [SQLZoo](https://sqlzoo.net/), [Mode SQL Tutorial](https://mode.com/sql-tutorial/)  
+
+- [ ]--
+
+## 📅 Week 4: Spring Framework Basics
+- [ ]*Focus:** IoC, Beans, Dependency Injection  
+- [ ]*Daily Breakdown:**
+- [ ] Day 1: Spring intro, setup  
+- [ ] Day 2: Beans & DI basics  
+- [ ] Day 3: XML vs Annotation config  
+- [ ] Day 4: Component scanning  
+- [ ] Day 5: Spring project structure  
+- [ ] Day 6: Mini-project: Basic Spring App  
+- [ ] Day 7: Review & quiz  
+
+- [ ]*Resources:**
+- [ ] 📘 - [ ]Spring in Action* – Craig Walls  
+- [ ] 🎥 [Spring Framework Tutorial – Amigoscode](https://www.youtube.com/watch?v=9SGDpanrc8U)  
+- [ ] 🌐 [Spring Docs](https://spring.io/projects/spring-framework)  
+
+- [ ]--
+
+## 📅 Week 5: Spring Boot & REST APIs
+- [ ]*Focus:** REST APIs, controllers, JSON  
+- [ ]*Daily Breakdown:**
+- [ ] Day 1: Spring Boot setup  
+- [ ] Day 2: REST Controllers  
+- [ ] Day 3: Request/Response handling  
+- [ ] Day 4: JSON serialization  
+- [ ] Day 5: Connecting to DB  
+- [ ] Day 6: Mini-project: To-Do REST API  
+- [ ] Day 7: Review & quiz  
+
+- [ ]*Resources:**
+- [ ] 📘 - [ ]Spring Boot Up & Running* – Mark Heckler  
+- [ ] 🎥 [Spring Boot REST API – Amigoscode](https://www.youtube.com/watch?v=vtPkZShrvXQ)  
+- [ ] 🌐 [Spring Boot Docs](https://spring.io/projects/spring-boot)  
+
+- [ ]--
+
+## 📅 Week 6: Advanced SQL & JPA
+- [ ]*Focus:** ORM, Hibernate, JPA queries  
+- [ ]*Daily Breakdown:**
+- [ ] Day 1: ORM concepts  
+- [ ] Day 2: Hibernate basics  
+- [ ] Day 3: JPA annotations  
+- [ ] Day 4: Relationships (OneToMany, ManyToMany)  
+- [ ] Day 5: JPQL queries  
+- [ ] Day 6: Mini-project: Student DB with JPA  
+- [ ] Day 7: Review & quiz  
+
+- [ ]*Resources:**
+- [ ] 📘 - [ ]Java Persistence with Hibernate*  
+- [ ] 🎥 [Hibernate & JPA – Telusko](https://www.youtube.com/watch?v=ma7-Pd1VMFg)  
+- [ ] 🌐 [Hibernate Docs](https://hibernate.org/orm/documentation/)  
+
+- [ ]--
+
+## 📅 Week 7: Git & Agile Workflows
+- [ ]*Focus:** Git basics, branching, Agile Scrum  
+- [ ]*Daily Breakdown:**
+- [ ] Day 1: Git basics (init, commit, log)  
+- [ ] Day 2: Branching & merging  
+- [ ] Day 3: GitHub basics (push, pull)  
+- [ ] Day 4: Pull requests & issues  
+- [ ] Day 5: Agile methodology  
+- [ ] Day 6: Mini-project: Repo collaboration  
+- [ ] Day 7: Review & quiz  
+
+- [ ]*Resources:**
+- [ ] 📘 - [ ]Pro Git* – Free online book  
+- [ ] 🎥 [Git & GitHub Crash Course](https://www.youtube.com/watch?v=RGOj5yH7evk)  
+- [ ] 🌐 [Atlassian Git Tutorials](https://www.atlassian.com/git/tutorials)  
+
+- [ ]--
+
+## 📅 Week 8: Testing (JUnit, Mockito)
+- [ ]*Focus:** Unit testing, mocks, integration testing  
+- [ ]*Daily Breakdown:**
+- [ ] Day 1: JUnit basics  
+- [ ] Day 2: Assertions & test lifecycle  
+- [ ] Day 3: Mockito for mocking  
+- [ ] Day 4: Integration tests  
+- [ ] Day 5: TestContainers  
+- [ ] Day 6: Mini-project: Unit tests for Spring API  
+- [ ] Day 7: Review & quiz  
+
+- [ ]*Resources:**
+- [ ] 📘 - [ ]Practical Unit Testing with JUnit and Mockito*  
+- [ ] 🎥 [JUnit 5 Tutorial](https://www.youtube.com/watch?v=0SK-Nt-d4J0)  
+- [ ] 🌐 [JUnit Docs](https://junit.org/junit5/docs/current/user-guide/)  
+
+- [ ]--
+
+## 📅 Week 9: Design Patterns
+- [ ]*Focus:** Creational, Structural, Behavioral patterns  
+- [ ]*Daily Breakdown:**
+- [ ] Day 1: Singleton, Factory  
+- [ ] Day 2: Builder, Prototype  
+- [ ] Day 3: Adapter, Decorator  
+- [ ] Day 4: Observer, Strategy  
+- [ ] Day 5: MVC, DAO patterns  
+- [ ] Day 6: Mini-project: Applying patterns  
+- [ ] Day 7: Review & quiz  
+
+- [ ]*Resources:**
+- [ ] 📘 - [ ]Head First Design Patterns*  
+- [ ] 🎥 [Design Patterns in Java – FreeCodeCamp](https://www.youtube.com/watch?v=tv-_1er1mWI)  
+- [ ] 🌐 [Refactoring Guru](https://refactoring.guru/design-patterns/java)  
+
+- [ ]--
+
+## 📅 Week 10: Frontend Basics (JavaScript/AngularJS)
+- [ ]*Focus:** JavaScript, DOM, API calls  
+- [ ]*Daily Breakdown:**
+- [ ] Day 1: JS basics (vars, functions)  
+- [ ] Day 2: DOM manipulation  
+- [ ] Day 3: Events  
+- [ ] Day 4: Fetch API  
+- [ ] Day 5: Intro to AngularJS  
+- [ ] Day 6: Mini-project: Consume Spring REST API  
+- [ ] Day 7: Review & quiz  
+
+- [ ]*Resources:**
+- [ ] 📘 - [ ]Eloquent JavaScript* (free online)  
+- [ ] 🎥 [JavaScript Full Course – FreeCodeCamp](https://www.youtube.com/watch?v=jS4aFq5-91M)  
+- [ ] 🌐 [MDN JavaScript Docs](https://developer.mozilla.org/en-US/docs/Web/JavaScript)  
+
+- [ ]--
+
+## 📅 Week 11: Project & Agile Tools
+- [ ]*Focus:** Agile, Scrum, JIRA, teamwork  
+- [ ]*Daily Breakdown:**
+- [ ] Day 1: Agile intro  
+- [ ] Day 2: Scrum framework  
+- [ ] Day 3: JIRA basics  
+- [ ] Day 4: Kanban boards  
+- [ ] Day 5: User stories & tasks  
+- [ ] Day 6: Manage project in JIRA  
+- [ ] Day 7: Review & quiz  
+
+- [ ]*Resources:**
+- [ ] 📘 - [ ]Agile Estimating and Planning* – Mike Cohn  
+- [ ] 🎥 [JIRA Tutorial – Guru99](https://www.guru99.com/jira-tutorial-a-complete-guide-for-beginners.html)  
+- [ ] 🌐 [Atlassian JIRA Docs](https://support.atlassian.com/jira-software/)  
+
+- [ ]--
+
+## 📅 Week 12: Capstone Project
+- [ ]*Focus:** Full- [ ]stack project, clean code, deployment  
+- [ ]*Daily Breakdown:**
+- [ ] Day 1: Project planning  
+- [ ] Day 2: Backend API setup  
+- [ ] Day 3: Database integration  
+- [ ] Day 4: Frontend integration  
+- [ ] Day 5: Authentication & security  
+- [ ] Day 6: Deployment & testing  
+- [ ] Day 7: Final presentation  
+
+- [ ]*Resources:**
+- [ ] 📘 - [ ]Clean Code* – Robert C. Martin  
+- [ ] 🎥 [Spring Boot + React Project – Amigoscode](https://www.youtube.com/watch?v=Gx4iBLKLVHk)  
+- [ ] 🌐 [Spring Security Docs](https://spring.io/projects/spring-security)  
+
+- [ ]--
+
+# ✅ Final Note
+By the end of 12 weeks, you’ll have:  
+- [ ] Strong - [ ]*Java & OOP foundations**  
+- [ ] Solid - [ ]*SQL + Spring Boot + REST API** skills  
+- [ ] Experience with - [ ]*Git, Agile, Testing, and Design Patterns**  
+- [ ] A full - [ ]*Capstone Project** you can showcase on GitHub & portfolio  
 
-Welcome, Edward! This is my full 12-week structured roadmap with daily
-breakdowns, exercises, and projects.
-
-------------------------------------------------------------------------
-
-# 📍 Week 1: Mathematical Thinking & Logic
-
-**Goal:** Develop rigorous problem-solving mindset.
-
-### Day 1: Logic Foundations
-
--   **Concepts**: Propositional logic, truth tables.
--   **Exercises**: Build truth tables for AND, OR, XOR.
--   **Brain Training**: Solve 5 logic riddles.
-
-### Day 2: Sets & Functions
-
--   **Concepts**: Sets, functions, mappings.
--   **Exercises**: Prove \|A∪B\| = \|A\| + \|B\| -- \|A∩B\|.
--   **Brain Training**: Venn diagram puzzles.
-
-### Day 3: Proofs & Induction
-
--   **Concepts**: Direct proof, contradiction, induction.
--   **Exercises**: Prove 1+2+...+n = n(n+1)/2.
--   **Brain Training**: Simple induction puzzles.
-
-### Day 4: Number Theory Basics
-
--   **Concepts**: GCD, modular arithmetic.
--   **Exercises**: Compute gcd(252,198) by Euclid's algorithm.
--   **Brain Training**: Modular clock problems.
-
-### Day 5: Discrete Structures
-
--   **Concepts**: Graphs, trees.
--   **Exercises**: Draw and analyze small graphs.
--   **Brain Training**: Find Euler paths.
-
-### Day 6: Combinatorics
-
--   **Concepts**: Permutations, combinations.
--   **Exercises**: Count number of 5-digit PINs with unique digits.
--   **Brain Training**: Counting puzzles.
-
-### Day 7: Weekly Project
-
--   **Mini Project**: Build a simple Sudoku solver using backtracking.
-
-------------------------------------------------------------------------
-
-# 📍 Week 2: Programming Foundations (Java/Python)
-
-**Goal:** Build solid programming fundamentals.
-
-### Day 1: Variables & Control Flow
-
--   **Concepts**: Loops, conditionals.
--   **Exercises**: Write fizzbuzz.
-
-### Day 2: Functions & Recursion
-
--   **Concepts**: Functions, recursion basics.
--   **Exercises**: Factorial recursive & iterative.
-
-### Day 3: Arrays & Strings
-
--   **Concepts**: Arrays, string manipulations.
--   **Exercises**: Reverse a string, find palindromes.
-
-### Day 4: Data Input & Output
-
--   **Concepts**: File handling, I/O.
--   **Exercises**: Read CSV, count words.
-
-### Day 5: Debugging & Testing
-
--   **Concepts**: Print debugging, unit tests.
--   **Exercises**: Write 5 JUnit or pytest tests.
-
-### Day 6: Error Handling
-
--   **Concepts**: Exceptions, error handling.
--   **Exercises**: Handle divide-by-zero gracefully.
-
-### Day 7: Weekly Project
-
--   **Mini Project**: CLI calculator with error handling.
-
-------------------------------------------------------------------------
-
-# 📍 Week 3: Algorithms I
-
-**Goal:** Learn fundamentals of algorithms.
-
-### Day 1: Time Complexity
-
--   **Concepts**: Big-O, Omega, Theta.
--   **Exercises**: Analyze O(n²), O(n log n).
-
-### Day 2: Sorting Basics
-
--   **Concepts**: Bubble, Insertion, Selection.
--   **Exercises**: Implement & time them.
-
-### Day 3: Efficient Sorting
-
--   **Concepts**: MergeSort, QuickSort.
--   **Exercises**: Implement both.
-
-### Day 4: Searching
-
--   **Concepts**: Linear vs Binary search.
--   **Exercises**: Implement both.
-
-### Day 5: Recursion in Algorithms
-
--   **Concepts**: Recursive problem-solving.
--   **Exercises**: Tower of Hanoi.
-
-### Day 6: Divide & Conquer
-
--   **Concepts**: Strategy & examples.
--   **Exercises**: Implement max subarray.
-
-### Day 7: Weekly Project
-
--   **Mini Project**: Sorting visualizer app.
-
-------------------------------------------------------------------------
-
-# 📍 Week 4: Data Structures I
-
-**Goal:** Master arrays, lists, stacks, queues.
-
-### Day 1: Arrays & Linked Lists
-
--   **Concepts**: Static vs dynamic memory.
--   **Exercises**: Implement linked list.
-
-### Day 2: Stacks
-
--   **Concepts**: LIFO, stack ADT.
--   **Exercises**: Implement stack.
-
-### Day 3: Queues
-
--   **Concepts**: FIFO, circular queues.
--   **Exercises**: Implement queue.
-
-### Day 4: Priority Queues & Heaps
-
--   **Concepts**: Min/max heaps.
--   **Exercises**: Heapify algorithm.
-
-### Day 5: Hash Tables
-
--   **Concepts**: Hashing, collisions.
--   **Exercises**: Implement simple hash table.
-
-### Day 6: Practice Problems
-
--   Stack/queue puzzles.
-
-### Day 7: Weekly Project
-
--   **Mini Project**: Text editor undo/redo with stacks.
-
-------------------------------------------------------------------------
-
-# 📍 Week 5: Data Structures II
-
-**Goal:** Trees, graphs.
-
-### Day 1: Binary Trees
-
--   **Concepts**: Traversals (inorder, preorder, postorder).
--   **Exercises**: Implement binary tree.
-
-### Day 2: Binary Search Trees
-
--   **Concepts**: BST operations.
--   **Exercises**: Insert, search, delete.
-
-### Day 3: Balanced Trees
-
--   **Concepts**: AVL/Red-Black basics.
--   **Exercises**: Implement AVL rotations.
-
-### Day 4: Graph Representations
-
--   **Concepts**: Adjacency list/matrix.
--   **Exercises**: Graph class.
-
-### Day 5: Graph Traversal
-
--   **Concepts**: BFS, DFS.
--   **Exercises**: Implement BFS/DFS.
-
-### Day 6: Weighted Graphs
-
--   **Concepts**: Dijkstra's, MST.
--   **Exercises**: Dijkstra's algorithm.
-
-### Day 7: Weekly Project
-
--   **Mini Project**: Maze solver with BFS/DFS.
-
-------------------------------------------------------------------------
-
-# 📍 Week 6: Advanced Algorithms
-
-**Goal:** Dynamic programming, greedy.
-
-### Day 1: Dynamic Programming Intro
-
--   **Concepts**: Memoization vs tabulation.
--   **Exercises**: Fibonacci DP.
-
-### Day 2: Classic DP Problems
-
--   **Concepts**: Knapsack, coin change.
--   **Exercises**: Solve both.
-
-### Day 3: Greedy Algorithms
-
--   **Concepts**: Greedy method.
--   **Exercises**: Activity selection.
-
-### Day 4: Graph Algorithms II
-
--   **Concepts**: Bellman-Ford, Floyd-Warshall.
--   **Exercises**: Implement both.
-
-### Day 5: String Algorithms
-
--   **Concepts**: KMP, Rabin-Karp.
--   **Exercises**: Implement substring search.
-
-### Day 6: NP-Completeness
-
--   **Concepts**: P vs NP, reductions.
--   **Exercises**: Prove subset-sum NP-complete.
-
-### Day 7: Weekly Project
-
--   **Mini Project**: DP-powered scheduling app.
-
-------------------------------------------------------------------------
-
-# 📍 Week 7: Databases & SQL Mastery
-
-**Goal:** Learn SQL and RDBMS theory.
-
-### Day 1: Database Foundations
-
--   **Concepts**: Relational model.
--   **Exercises**: Schema design.
-
-### Day 2: Basic SQL
-
--   **Concepts**: SELECT, WHERE.
--   **Exercises**: Query examples.
-
-### Day 3: Joins
-
--   **Concepts**: INNER, LEFT, RIGHT, FULL.
--   **Exercises**: Join queries.
-
-### Day 4: Aggregates & Grouping
-
--   **Concepts**: SUM, AVG, GROUP BY.
--   **Exercises**: Aggregate queries.
-
-### Day 5: Subqueries & Views
-
--   **Concepts**: Nested queries, views.
--   **Exercises**: Subquery practice.
-
-### Day 6: Transactions & Indexing
-
--   **Concepts**: ACID, indexes.
--   **Exercises**: Transaction demo.
-
-### Day 7: Weekly Project
-
--   **Mini Project**: School DB schema + reports.
-
-------------------------------------------------------------------------
-
-# 📍 Week 8: OOP & Design Patterns
-
-**Goal:** Write scalable software.
-
-### Day 1: OOP Principles
-
--   **Concepts**: Encapsulation, inheritance.
--   **Exercises**: Class hierarchy.
-
-### Day 2: Advanced OOP
-
--   **Concepts**: Interfaces, composition.
--   **Exercises**: PaymentMethod interface.
-
-### Day 3: SOLID Principles
-
--   **Concepts**: SOLID rules.
--   **Exercises**: Refactor code.
-
-### Day 4: Creational Patterns
-
--   **Concepts**: Singleton, Factory.
--   **Exercises**: DB Singleton.
-
-### Day 5: Structural Patterns
-
--   **Concepts**: Adapter, Decorator.
--   **Exercises**: LoggingDecorator.
-
-### Day 6: Behavioral Patterns
-
--   **Concepts**: Observer, Strategy.
--   **Exercises**: Notification system.
-
-### Day 7: Weekly Project
-
--   **Mini Project**: E-commerce with patterns.
-
-------------------------------------------------------------------------
-
-# 📍 Week 9: Systems & Networking
-
-**Goal:** Understand systems & networks.
-
-### Day 1: Computer Architecture
-
--   **Concepts**: CPU, memory hierarchy.
--   **Exercises**: Draw hierarchy.
-
-### Day 2: Networking Basics
-
--   **Concepts**: IP, TCP/UDP, DNS.
--   **Exercises**: Ping, traceroute.
-
-### Day 3: HTTP & REST
-
--   **Concepts**: Methods, status codes.
--   **Exercises**: curl requests.
-
-### Day 4: Sockets Programming
-
--   **Concepts**: Client-server model.
--   **Exercises**: Chat app.
-
-### Day 5: Security Basics
-
--   **Concepts**: SSL/TLS, encryption.
--   **Exercises**: Generate RSA keys.
-
-### Day 6: Cloud & Virtualization
-
--   **Concepts**: VMs, Docker.
--   **Exercises**: Run Docker container.
-
-### Day 7: Weekly Project
-
--   **Mini Project**: Authenticated chat app.
-
-------------------------------------------------------------------------
-
-# 📍 Week 10: AI & Machine Learning Basics
-
-**Goal:** Intro to ML.
-
-### Day 1: AI Basics
-
--   **Concepts**: AI vs ML.
--   **Exercises**: Explain ML simply.
-
-### Day 2: Linear Regression
-
--   **Concepts**: Gradient descent.
--   **Exercises**: Implement regression.
-
-### Day 3: Classification
-
--   **Concepts**: Logistic regression.
--   **Exercises**: Pass/fail classifier.
-
-### Day 4: Decision Trees
-
--   **Concepts**: Entropy, Random Forests.
--   **Exercises**: Train tree model.
-
-### Day 5: Neural Networks Basics
-
--   **Concepts**: Perceptron.
--   **Exercises**: Implement perceptron.
-
-### Day 6: Evaluation
-
--   **Concepts**: Accuracy, overfitting.
--   **Exercises**: Model evaluation.
-
-### Day 7: Weekly Project
-
--   **Mini Project**: Predict grades with ML.
-
-------------------------------------------------------------------------
-
-# 📍 Week 11: Advanced Topics & Research
-
-**Goal:** Explore advanced CS + research skills.
-
-### Day 1: Big-O in Real Systems
-
--   **Concepts**: Theory vs practice.
--   **Exercises**: Compare sorts.
-
-### Day 2: Distributed Systems
-
--   **Concepts**: CAP theorem.
--   **Exercises**: Summarize Google Spanner.
-
-### Day 3: Parallel Programming
-
--   **Concepts**: Threads, async.
--   **Exercises**: Multi-threaded downloader.
-
-### Day 4: Research Thinking
-
--   **Concepts**: Reading papers.
--   **Exercises**: Summarize arXiv paper.
-
-### Day 5: Advanced Security
-
--   **Concepts**: OAuth, JWT.
--   **Exercises**: Password hashing.
-
-### Day 6: Ethics in AI
-
--   **Concepts**: Bias, privacy.
--   **Exercises**: Essay on bias.
-
-### Day 7: Weekly Project
-
--   **Mini Project**: Simulated distributed system.
-
-------------------------------------------------------------------------
-
-# 📍 Week 12: Capstone Project
-
-**Goal:** Integrate everything.
-
-### Day 1: Capstone Planning
-
--   Define project scope.
-
-### Day 2: Database + Backend
-
--   Build DB + APIs.
-
-### Day 3: Frontend
-
--   Build UI (Swing/Flutter/Web).
-
-### Day 4: Algorithms Integration
-
--   Add algorithms/DS.
-
-### Day 5: ML Integration (Optional)
-
--   Predictive feature.
-
-### Day 6: Testing & Docs
-
--   Unit tests + README.
-
-### Day 7: Final Presentation
-
--   Package & demo.
-
-------------------------------------------------------------------------
-
-# 🎯 Final Outcomes
-
--   Advanced algorithms & DS mastery.
--   Scalable OOP & design patterns.
--   SQL & database proficiency.
--   Systems, networking, security knowledge.
--   ML basics & research skills.
--   Capstone project to showcase.
-
-------------------------------------------------------------------------
-
-**Congratulations Edward! 🎓 You've got your PhD-style CS bootcamp
-roadmap.**
