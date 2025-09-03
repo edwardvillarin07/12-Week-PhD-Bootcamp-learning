@@ -10,7 +10,7 @@ Use this as your personal study plan (perfect for GitHub or Obsidian notes).
 - [ ]*Daily Breakdown:**
 - [x] Day 1: Java setup, Hello World, variables  
 - [x] Day 2: Data types, operators, input/output  
-- [ ] Day 3: Control flow (if, switch, loops)  
+- [x] Day 3: Control flow (if, switch, loops)  
 - [ ] Day 4: Arrays & Strings  
 - [ ] Day 5: Methods & parameters  
 - [ ] Day 6: Mini-project: Calculator  
