@@ -9,7 +9,7 @@ Use this as your personal study plan (perfect for GitHub or Obsidian notes).
 - [ ]*Focus:** Syntax, variables, loops, conditionals, methods  
 - [ ]*Daily Breakdown:**
 - [x] Day 1: Java setup, Hello World, variables  
-- [ ] Day 2: Data types, operators, input/output  
+- [x] Day 2: Data types, operators, input/output  
 - [ ] Day 3: Control flow (if, switch, loops)  
 - [ ] Day 4: Arrays & Strings  
 - [ ] Day 5: Methods & parameters  
