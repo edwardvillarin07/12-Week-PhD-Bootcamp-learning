@@ -1,6 +1,6 @@
 # 🧠 12-Week PhD-Level Computer Science Bootcamp
 
-Welcome, Edward! This is your full 12-week structured roadmap with daily
+Welcome, Edward! This is my full 12-week structured roadmap with daily
 breakdowns, exercises, and projects.
 
 ------------------------------------------------------------------------
